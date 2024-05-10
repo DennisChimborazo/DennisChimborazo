@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola soy Dennis Chimborazo 👋
+
+![banner DeCP](ImageInicio.png)
 
 DennisChimborazo/DennisChimborazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
