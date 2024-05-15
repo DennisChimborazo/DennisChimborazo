@@ -1,6 +1,6 @@
 ### Hola soy Dennis Chimborazo 👋
 
-![banner DeCP](/Ima/Image.jpg)
+![banner DeCP](Image.jpg)
 
 #### Soy un aspirante desarrollador junior con una pasión inquebrantable por el aprendizaje y la transformación de ideas en código
 <h2>Sobre mí 😃</h2>
@@ -45,19 +45,19 @@
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
         <div style="margin: 10px;">
-            <a href="#"><img width="310" src="Ima/kar.jpg" alt="frasco"><br>Tarjeta Kardex (Java)</a>
+            <a href="#"><img width="310" src="kar.jpg" alt="frasco"><br>Tarjeta Kardex (Java)</a>
         </div>
         <div style="margin: 10px;">
-            <a href="#"><img width="268" src="Ima/tamagotchi.jpg" alt="frasco"><br>Tamagotchi (Python)</a>
+            <a href="#"><img width="268" src="tamagotchi.jpg" alt="frasco"><br>Tamagotchi (Python)</a>
         </div>
         <div style="margin: 10px;">
-            <a href="#"><img width="300" src="Ima/rest.jpg" alt="frasco"><br>El Ahumado (Java)</a>
+            <a href="#"><img width="300" src="rest.jpg" alt="frasco"><br>El Ahumado (Java)</a>
         </div>
         <div style="margin: 10px;">
-            <a href="#"><img width="310" src="Ima/cell.jpg" alt="frasco"><br>CellWord (Html - Css)</a>
+            <a href="#"><img width="310" src="cell.jpg" alt="frasco"><br>CellWord (Html - Css)</a>
         </div>
         <div style="margin: 10px;">
-            <a href="#"><img width="278" src="Ima/regre.png" alt="frasco"><br>Calculo de regresiones (Java)</a>
+            <a href="#"><img width="278" src="regre.png" alt="frasco"><br>Calculo de regresiones (Java)</a>
         </div>
     </div>
 </div>
